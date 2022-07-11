@@ -1,2 +1,2 @@
-# Tutuorial
+# Tutorial
 First repository
